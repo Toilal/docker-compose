@@ -1,4 +1,4 @@
-FROM docker:17.06
+FROM docker:test
 MAINTAINER Rémi Alvergnat <toilal.dev@gmail.com>
 
 RUN apk add --no-cache py-pip
